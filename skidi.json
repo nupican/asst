@@ -1,0 +1,114 @@
+{
+    "Ads": [
+      {
+        "select_main_ads": "ADMOB",
+        "select_backup_ads":"APPLOVIN-M",
+        "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+        "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+        "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+        "main_ads_rewards":"",
+        "backup_ads_natives":"PL350911184828",
+        "backup_ads_banner":"db4d5e8718b97d78",
+        "backup_ads_intertitial":"518cd97722c60b52",
+        "backup_ads_rewards":"PL350911184828",
+        "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+        "open_ads_alien":"",
+        "switch_open_ads":"1",
+        "switch_banner_natives_ads":"1",
+        "on_off_native_listview":"1",
+        "interval_intertitial": 5,
+        "initialize_sdk":"107355779",
+        "initialize_sdk_backup_ads":"",
+        "high_paying_keyword_1": "Insurance",
+        "high_paying_keyword_2": "Mortgage",
+        "high_paying_keyword_3": "Credit",
+        "high_paying_keyword_4": "Donate",
+        "high_paying_keyword_5": "Trading",
+        "status_app": "0",
+        "link_redirect": "https://",
+        "on_off_category":"2"
+      }
+    ],
+    "More":
+    [
+      {
+        "id":1,
+        "title":"More Wallpaper",
+        "image":"https://play-lh.googleusercontent.com/EehGaUGrMp9MIJQUtFjbFo8h4fIONm4qvKnePrZlpEb1SQRaSN-sj_joiy9-4F6f6xc=w240-h480-rw",
+        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
+      },
+      {
+        "id":2,
+        "title":"More Wallpaper",
+        "image":"https://play-lh.googleusercontent.com/5LCZKOZC8ckAdiJsGUtacU1eaWgzev46H8f4WTfSLAzkP33r21hiSE8LjeCtMqdqf1Ox=w240-h480-rw",
+        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
+      },
+      {
+        "id":3,
+        "title":"More Wallpaper",
+        "image":"https://play-lh.googleusercontent.com/EtTBXrC2kLPlXGxy8_rT9OIWEc1L8YO1RUfulqp6lPTeuL5swISqeO9yE3ci6EZm778=w240-h480-rw",
+        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
+      },
+      {
+        "id":4,
+        "title":"More Wallpaper",
+        "image":"https://play-lh.googleusercontent.com/ByS3zj2f1kmJO14NbPggcRWWrb57C4-V3tDxQLoxrx3GrLwAcMK5PUcNZTW0nnT_Cyz5=w240-h480-rw",
+        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
+      },
+      {
+        "id":5,
+        "title":"More Wallpaper",
+        "image":"https://play-lh.googleusercontent.com/0bCDhiVAq0chWMCmE7jQHZcD15sSH0mo2ATYVg_0kcuptSbfvY5Lm1ZPXYVYLAxdMl6G=w240-h480-rw",
+        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
+      },
+      {
+        "id":6,
+        "title":"More Wallpaper",
+        "image":"https://play-lh.googleusercontent.com/dYtOU13gqaXC0GZ1VX6atOxrwTGilNyybwCvAjmUM6QpvL5Y75VVczSZlHOPGltLwA=w240-h480-rw",
+        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
+      }
+    ],
+  
+    "Categories": [
+      {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://yorudev.link/nature/1.jpg"},
+      {"id":21,"name_category": "Category 2","title":"Category 2","image":"https://yorudev.link/nature/31.jpg"},
+      {"id":41,"name_category": "Category 3","title":"Category 3","image":"https://yorudev.link/nature/61.jpg"},
+      {"id":61,"name_category": "Category 4","title":"Category 4","image":"https://yorudev.link/nature/91.jpg"},
+      {"id":81,"name_category": "Category 5","title":"Category 5","image":"https://yorudev.link/nature/121.jpg"}
+      ],
+      
+        "Data":
+        [
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh67B29hh3rAkfWUybdYz19hX7l5i8LROVNPOB9aMQaSzeHZr8ufIgtjVPiy3ECRwV8msfC-tES_R7I4DCKxlP0iIaftpW4jcl2S8S_Ru5kMEEkN9376-JPLh_YTiJKXLuN5xw4OLYhGZ5jHQbBg2jegup6_Dv6e7GX8y6T7XU6P6Q-C01PZIldW8g-BsAj/s450/61gVnj7UWOL._AC_SY450_.jpg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsiyEuRoatG__Kcsr7j0WnWe3KYcpkLNpBHVxBmI34mIzjrqtKdiHP9YEXPBVOjtgvUpRrZNp2uuWwVtqfDKeBDqnjXlt0W79vUQNadnkjfPpPtAQLUksxFRXAHfAbKgJVSXE8dSoXZILh6w0aQGv00VITKwZlVS8VIihAUcT3gb_S5NzcutW7Z3CwkBy5/s419/cbf2719916279b4ac657b05ad1f100ca.jpg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47ym36V94xgdkkT9SL_q1sRirL1Tr6cRiCtBfVRipBFl2OEX1LyUJaAKOrZ2BTDB0Hh2Id3yvsnlnLg_KKuqBrnN181wJlVAE-foDa3LM9aDiEKj0PpKnbRHy_C75RO0DoWzlvHG_oThFh4YTBW9Ycb5_mqP3iWWGBbfLO2gvYoXKVnK5GzcBavfQJyqk/s393/OIP%20(1).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzyy1Sf-EbEFP7pAApnUVfaKZKmUTsL0S8wUDE_yhWR535qOGE1bTv0BokF3TiGnkM7edzjYfImJ74abyW2wKTgbm5NE30v---NhXJNJUZ1adYlC83Y4oiwYko0PNN7fLvpKzGg0k7DRR-JTnwgsW5-QoTDwhqRIowxyx4YYYOPoDi6YMiDGsnxdUqdx-j/s498/OIP%20(2).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9VCTGdC8Sq4ahyOa8ysXhM4vBBws_82GfrFwwX9TOVnIgFpLGwHo6bNgPOamwRhHc9wsY_qLCMQWEBYwpZHdM6FDkUAJnLnRvchtcJpGhm32m6D6PBiiVo6t3zDw7ZsNv-0Eihquloq2Y8rXtTpmAdxSPulNn_ZObcI0W27kASmJw-0gApA2S452YSlW/s415/OIP%20(3).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-k3zXeDwjqz6ZoCsBlOiEQv-jjiyzWr8YVdyPN86fasxwkjAc9ZJTqIO_XYFf6qRu-h1Fs1VBhYgKxnLJPDopvZYamju6Djv9eYyWkYGfjKaPD2VDYl466BChGEQicAx7m2UISy5WWzTDAA66Llvz3bobm1zzm3_8lNgrWlY52CyWW9tb4yXAKUqmGsNI/s362/OIP%20(4).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSQuHeydhL4I6XdPA2TW4NbcqvrpT-X8uWNybl7amxkpCd8p6Fsjk3iVjwZqYzoqgsCCCOb6mP0kw-DOUL__VFKNOuwwV7pXgsEdZ0s-7rUFCsgx0hzQ08l_4VyXtPHi6vGDgR6UF1dCqcJ5PUKwhmbcfvcK_E1LZLmpMDG_awXY3feNNi7jGtT5uNtKOG/s493/OIP%20(6).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLxPmcUiCqouqvAkWcIHt7bykZnpqV2yGnELV_HWDQ7o1BbOvkWLRLZ2GH09KNsqa677OjLQHIIGKDo5uV033NATgcSWQ_vbf8CI0qOsxHSb_cb2NJIpDtMWzBR9vPA8rffTq4Be9T1j4R1-6A2wV-BDcy85IAUEM3QVzaWIVkUKVd5AdIVFqdBA8NFpFE/s335/OIP%20(7).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2QEj3EtenSSh4_ZACHVv-vaqoXoHmcJngadFgqqyo_798KCODkrhp8MSuQlaxLGbpMML9nbDhKkuX_JH28VfWw-HefW7FK64AbF-A7rTD8i2ElrbGo6K14d7Id--TTPtvomobRXs80gHcW-B9MeQAJpsp6gdH18DxaXQVqKamZQ_vSKd1ZLXVbgITs9W4/s460/OIP%20(8).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaAUynkOy9ng5hswP9Erpj6YAADriOh_Hdo_TzvJS2QOCkqv_RuTvH3Q_9xbaaP_M4Sn7azbEcbukta6bAq3ZEkQPYR_RE5P5KWtZYSckWT7nBKhcp_yp4nxbc35Tsv3O23uS_5aE48l-bpsiSHUcK7P-Og-v_6jSJo5cT5xAtGzPCoiU1WBoFU-b7tovc/s499/OIP%20(9).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif4e6DwsGcSgKVrE4motAC93LMVk4klzFBbojkPdlxOu9E0tIcwV-JNICM0GzjBOJGk7dSUKoT11LKPxQw0yqCYYLqhc5dyM_9_PhjpDD3gXhe99LqiVVvohFMbUuiCZQEHHmJG4jYA9JFmNbci2wCiKszOErjuHCNErBZw_Vwoe5IMTPdaaqsXWYgf8FQ/s464/OIP%20(10).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwpGbqfWzWPxuBPRVal0Sa7QAniXHV3RBzanf-NIjr67w-8JaV5aCs2W_y5kHjUN0b-tZpQmzVL3LKWIAqhrAWHFmxvETnTQ9Sd8_KVHqj1KULrJYEM1kYFUbkU01l7kq-aQ6CR2tOqJF0F83SFIB2FQeg3qY6CY18mwYAtVQAlhaC5ResJnLB899BVjlr/s408/OIP%20(11).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3RCq88UleChT6Viiz5bVj2QLgBudH3dXm7od3AgQ1TuQXJdXSVjFqNn1sD2nomplsNGJ3NqN_tlfQXL-1gDOVMbyI2JLalZIfrDtRhBmFDuS7dwmfOT3Lb7s2rSio9B4JBQynxhKizZxWP-o5Vo91Ft_bL8DqlWR19OwYWGC_zmADngJWGMXGaDwWN09z/s310/OIP%20(12).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYo-0JT9tPWVg0hUwDi9zTUk6cJzaRTQ8VzbU7O8OzkL-V7Gq-Fel2vokToFfJpBhKTCdOtC58VlNvPL_SibjeQsYUqsAD5Xvs-k0erDKIyf6bHTmbVj6Zcslk50tl7EzgWUd_7hHCe8b3lMFgFt3S07KFjUx1DqGc3n2ySizZIjeZKtvA6P8ANnG344Ar/s475/OIP%20(13).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIlEevrfDKG5F1RljmTagHpSJ-hkaHe1jRbXSFeGQ1pOde07CQdmwrK7so6nO_awoDCZrGlJilV3WrNJ8kqu-D3GsCLpQr7Xo0UoPk5NoJSlvOWx4abn1lMetTQNF-7UScCMsht5ffeHc_XT9vhflbe56iPc66yA1ZnMgH48o3dX10j_G-2udATyJ6OEp1/s313/OIP%20(14).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIk4i3YCXVq1dS1JO8K0aZ2TZuO2Dp-pH3y_rf2zo809V5QQxTIqbfR29ZU8IAXklgyF7eKvBqKuQbupycBk5N3kaDtDwPt3UEXp-4NDacXZFxMONXHFceeG71lpBKeXX1cjgU1acxzkqXxnYeAB3zEG2r0q2EhszCqieCfciMnJayABgJpQ15H1nlkXxV/s412/OIP%20(15).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjh108WMsdCJtREKPxl9V0ZOmq4uuC4yuQfHwXAR-u3LlUKVMXxJiEZVJF7yPvmxbNMDtQ-dV6pzn9wpRiMZxyRPw9M1kroC0KMSHD3mnF7US1B2QAa3iQ_h5sZ1DXL0ZBDk2A2M0ppZuKuWck-3MmLhD1iO0iv63kPK3rraaLc5VBcjZFJ9ZrtJqraYnt/s330/OIP%20(16).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-e44EhTY4MvJ34Jl58jtgNlfkajjzVP25dc3N4KNsYwwNStsaCjHxqcJFFDPECywJ4HLFDTnegw4Km-GdePW9TpZ_6cy4tm0Xrur_SzQAnBA6D6mBRJbRTxkWtJb5yKzhYs5uvPgH4U8cuG6iU3UgKG7KG8jJO_kKusv0g4iAmS0y3xEjd2iRHdYPgoF/s360/OIP%20(17).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvxwrpP4Y_aWTu3l-jmgx_mff7SmoE2kYRuF6IIfMgKqwcjA_iLm9AYTT2SkvexwoMCfhW4kgMF2NJBdgtuFz_M9PTaU1rSBCjXd8gbvBN-LiTOo53JFt48Uk3IyEFQViIksKClLR2Qp-nQ-YXnEi4rqA1mEjdf1BetkDhXwt7GQGaMEp39zY8sxVMwDBZ/s364/OIP%20(18).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3FGF5PURfJ2lLBH0oEdUZLBp2P7-jMlaH9ZAIPwlsE8O6UGVVsYyg-XBooUZ1bbb7qb2ekVJORUYFXR-YT4RKLzqu5VPLCxeOS4Mx6b50CB1T4MYbDJLntTxHmFxQu1aHUyrfHJ9AtVM0KkqMGqbdpznMNtqfxW3Tt9Id-AWTfsZ83dfOXg3jDpmqsdOp/s430/OIP%20(19).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9azeB2KVBHEfSGv5QX2p68x04Okc4CPEYDj9fnwyZRy16y_1Jonh0OfNNvkmi_vcMbnldE2rQqJb36acoIRwAJ0LfkV2wwJZibjS_C2-fEeUr0kKhCovQgk597q57Hkk8A-JxGZcdQIvkYszeE4TFUsPcykc6E9_keWS1aNVGh9SvuA1peef04eyK-Sl/s499/OIP%20(20).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHXFHoFZteHf8YzB3brJXzf3PWhrU02H3vhw8hQPonLnW85aWPDydKvNBpajDUQHGITIdyILck0Ah0B0_TrLNyl9pjGLEW3z1Qvp4TFaVhnN1ASH6gyYXl70azhwIAAKPkCjSNni4Xlf9x1ut-rGGNNQ_8iTTmhU6YONZ5J7PEc2RGVYY5af5YVzyFQpfU/s499/OIP%20(21).jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA2PPaHf48T5StGCY3TNRNNN3pO5fqfAI8_845G-WNg3luKmrqoBZwmKTZy8YQ9kI43AAJsOkVlPrtlwS-uC3nnecyt7AWMrk1bOpSLnuv02o0mgK2HGCTJPqZ7V73HKcRgQhB24qxtKeRVOj1UCZMBYJwc5PIXwg3UmYGqK7Gk38rhBNr99Umt5zjBxkW/s494/OIP.jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrkHfBhFtEDtznN4JODx-taIKfI2Mzns3y4jTRH9f8HNnGocx03qhO4ei_CIupM3vMMRqMN7locJ2EyW5BVPsMiE1wy9nW_sihahm2CAeP9GnU6-Ugf6UVAapMJWGJ6k13JQ-raIlePY-O7W7XtOLxhNrFVyEQli25rgPpSviBCfwEWwwN2gLW9NfymCC/s300/R.jpeg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Yr3XhcE7kyhlWyNXHTWjyEpawp-OTFgpCcONgBLueex_m3drR8JDQJNNFAYV6cPUK490GqDMlwvBK7B9PLu1jgKrZT11J3zLSFWmqIUA6tvt0vFafwWoUYA33cfby_wTlOG5OTBYG3YqZzKZgmvHOYoT6yyJCxAgfOj_LK1x23v_slKjIbhBfvi5pBLQ/s436/skibidi-toilet-big-300x436.jpg"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_p3SAEcw7vSI1AwHkmw22B4ZIWWHtn4FHUfxIe2upd3P7ssV8bdoNidQeow35I4zNZBPD_HtkVilU0CGjcNKaWzykw0A7-j299atte2_bsmLTfK9vgYr474EWnf-JpRuE4UnKoQI6H96fpy2NF29QOcvNngw8vhukgJKXc4OHFUiK1SoTRriWQLf-nL8Q/s374/skibidi-toilet-skibidi.gif"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO-Fo85vgvIFdhqW1bhGDldMV-nkn9k124-qLDKnV5o46p2Bq6CzGRB1jClXpQX55ikH4-k-UyLxKcltzXo6-gu8vSgq9RqDWjK9Fhlv4AC-_qcTsoU1pSRkJndI6P0HELdXNqQTotOgk-DgTczXJ7UJ8jpBS2OM9BY2u_QgfD6dXA7R0Ww4lLhfODwVfS/s400/unnamed%20(2).png"},
+            {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeGmKTtS1JaOdxynDF7Phb_MhwkT2rJRYNy2jBM5xrxSdCvcshNK_VYkzlqbRJBWnHdjKlUwQE9keR2t6tAQS3IgNPBso-6c9nec_WNfVgnB18PCapqkRdSZRjxvY6VgAcOfXsCSOKVZYYLFV6qagQ_UmssV2y2MzNb0U-cEetAAJpsdWHioCTTkZWVs2b/s409/unnamed.jpg"}
+    
+        ]
+  }
+  
+  
