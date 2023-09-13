@@ -15,7 +15,7 @@
       "open_ads_alien":"",
       "open_ads_max":"1",
       "open_ads_wortise":"",
-      "on_off_native_listview":"",
+      "on_off_native_listview":"1",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
