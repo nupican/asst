@@ -1,82 +1,82 @@
 {
-    "Ads": [
-      {
-        "select_main_ads": "ADMOB",
-        "select_backup_ads":"APPLOVIN-M",
-        "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-        "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-        "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-        "main_ads_rewards":"",
-        "backup_ads_natives":"PL350911184828",
-        "backup_ads_banner":"db4d5e8718b97d78",
-        "backup_ads_intertitial":"518cd97722c60b52",
-        "backup_ads_rewards":"PL350911184828",
-        "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-        "open_ads_alien":"",
-        "switch_open_ads":"1",
-        "switch_banner_natives_ads":"1",
-        "on_off_native_listview":"1",
-        "interval_intertitial": 5,
-        "initialize_sdk":"107355779",
-        "initialize_sdk_backup_ads":"",
-        "high_paying_keyword_1": "Insurance",
-        "high_paying_keyword_2": "Mortgage",
-        "high_paying_keyword_3": "Credit",
-        "high_paying_keyword_4": "Donate",
-        "high_paying_keyword_5": "Trading",
-        "status_app": "0",
-        "link_redirect": "https://",
-        "on_off_category":"2"
-      }
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"PL350911184828",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"PL350911184828",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Mortgage",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Donate",
+      "high_paying_keyword_5": "Trading",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"2"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/uwfdxucbVqVlFGNPkY5Gh0sP1fyy1_QxddWAiI0JLe81_mLyFhTZpwf-9qwEcmWOZzMk=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.Nupican.animeboy.wallpaper.animejapan"
+    },
+    {
+      "id":2,
+      "title":"More Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/6C6bv_-_v3CJkdnwa9Zmm9WMrdVTNzUh7tRs1wOBdKBdHOnHVNuB45gctx6kszJY-tw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.nupican.gacha.ninechapters.outfit.idea"
+    },
+    {
+      "id":3,
+      "title":"More Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/TEWyFYTndREqsIVnojmohT-D4xK_PRvujojRXXlkZxZL1FVCwctHxhI8qucmO9lsRg=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.Nupican.cute.wallpaper.kawaii"
+    },
+    {
+      "id":4,
+      "title":"More Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/n6fbZgsvNk-RzZ9_bI38xgS3yuXw4Az4GVqKZMRdIiOnBtAPFJ6LNIrXl3Xsdm1p1w=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.Nupican.wallpaperglitter.beautiful"
+    },
+    {
+      "id":5,
+      "title":"More Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/O5VGs2shXdRVnrM4ufCzM9L_T4B-6rIsff3YrHT2hNxCfv10FyUj5ZVs1eJ-xlbK6g=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.Nupican.aesthetic.wallpaper.estetik"
+    },
+    {
+      "id":6,
+      "title":"More Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/qtrtGSer1mtSRWEisKkmQb49xjmVRfHHdifn9FGHNB_4jWcNNh4AvsW-QweYMGP64g=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.nupican.TocaBoca.wallpaper.room.idea"
+    }
+  ],
+
+  "Categories": [
+    {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://yorudev.link/nature/1.jpg"},
+    {"id":21,"name_category": "Category 2","title":"Category 2","image":"https://yorudev.link/nature/31.jpg"},
+    {"id":41,"name_category": "Category 3","title":"Category 3","image":"https://yorudev.link/nature/61.jpg"},
+    {"id":61,"name_category": "Category 4","title":"Category 4","image":"https://yorudev.link/nature/91.jpg"},
+    {"id":81,"name_category": "Category 5","title":"Category 5","image":"https://yorudev.link/nature/121.jpg"}
     ],
-    "More":
-    [
-      {
-        "id":1,
-        "title":"More Wallpaper",
-        "image":"https://play-lh.googleusercontent.com/EehGaUGrMp9MIJQUtFjbFo8h4fIONm4qvKnePrZlpEb1SQRaSN-sj_joiy9-4F6f6xc=w240-h480-rw",
-        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
-      },
-      {
-        "id":2,
-        "title":"More Wallpaper",
-        "image":"https://play-lh.googleusercontent.com/5LCZKOZC8ckAdiJsGUtacU1eaWgzev46H8f4WTfSLAzkP33r21hiSE8LjeCtMqdqf1Ox=w240-h480-rw",
-        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
-      },
-      {
-        "id":3,
-        "title":"More Wallpaper",
-        "image":"https://play-lh.googleusercontent.com/EtTBXrC2kLPlXGxy8_rT9OIWEc1L8YO1RUfulqp6lPTeuL5swISqeO9yE3ci6EZm778=w240-h480-rw",
-        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
-      },
-      {
-        "id":4,
-        "title":"More Wallpaper",
-        "image":"https://play-lh.googleusercontent.com/ByS3zj2f1kmJO14NbPggcRWWrb57C4-V3tDxQLoxrx3GrLwAcMK5PUcNZTW0nnT_Cyz5=w240-h480-rw",
-        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
-      },
-      {
-        "id":5,
-        "title":"More Wallpaper",
-        "image":"https://play-lh.googleusercontent.com/0bCDhiVAq0chWMCmE7jQHZcD15sSH0mo2ATYVg_0kcuptSbfvY5Lm1ZPXYVYLAxdMl6G=w240-h480-rw",
-        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
-      },
-      {
-        "id":6,
-        "title":"More Wallpaper",
-        "image":"https://play-lh.googleusercontent.com/dYtOU13gqaXC0GZ1VX6atOxrwTGilNyybwCvAjmUM6QpvL5Y75VVczSZlHOPGltLwA=w240-h480-rw",
-        "link":"https://play.google.com/store/apps/dev?id=7720049308084259419"
-      }
-    ],
-  
-    "Categories": [
-      {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://yorudev.link/nature/1.jpg"},
-      {"id":21,"name_category": "Category 2","title":"Category 2","image":"https://yorudev.link/nature/31.jpg"},
-      {"id":41,"name_category": "Category 3","title":"Category 3","image":"https://yorudev.link/nature/61.jpg"},
-      {"id":61,"name_category": "Category 4","title":"Category 4","image":"https://yorudev.link/nature/91.jpg"},
-      {"id":81,"name_category": "Category 5","title":"Category 5","image":"https://yorudev.link/nature/121.jpg"}
-      ],
-      
+    
         "Data":
         [
             {"id":1,"name_category": "Category 1","title":"Category 1","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh67B29hh3rAkfWUybdYz19hX7l5i8LROVNPOB9aMQaSzeHZr8ufIgtjVPiy3ECRwV8msfC-tES_R7I4DCKxlP0iIaftpW4jcl2S8S_Ru5kMEEkN9376-JPLh_YTiJKXLuN5xw4OLYhGZ5jHQbBg2jegup6_Dv6e7GX8y6T7XU6P6Q-C01PZIldW8g-BsAj/s450/61gVnj7UWOL._AC_SY450_.jpg"},
